@@ -1,5 +1,5 @@
 
-The code for each of the tasks is contained within the appropriately names ipynb files (Jupiter notebook). 
+The code for each of the tasks is contained within the appropriately names ipynb files (Jupiter notebook) coded in the python language. 
 A1 folder contains - A1.ipynb - Task A1: Gender
 A2 folder contains - A2.ipynb - Task A2: Smiling
 B1 folder contains - B1.ipynb - Task B1: Face Shape 
